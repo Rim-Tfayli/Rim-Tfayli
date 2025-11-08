@@ -1,25 +1,19 @@
-### Hi 👋🏻 It's Rim
-### ☕ + 💻 = ✨
-
-
-**Software Engineer in the making 👀💫**  
-
-🌍 Based in Lebanon  
- 
-👩🏻‍🎓 Studied Computer Science at Lebanese University  
-
-🧠 Currently learning Full-Stack Web Development  
-
-☕ Powered by Coffee & Code
-
-🖥️ Portfolio: [MyPortfolio](https://github.com/Rim-Tfayli) 
-
-✉️ Contact: [Rim.tf.2004@hotmail.com](mailto:Rim.tf.2004@hotmail.com) 
-<br/><br/><br/>
-
-
-
-
+<h3>Hi 👋🏻 It's Rim</h3><table width="1000">
+  <tr>
+    <td valign="top" >
+      <p><b>Software Engineer in the making 👀💫</b></p>
+      <p>✨Powered by Coffee & Code☕ + 💻 </p>
+      <p>👩🏻‍🎓 Studied Computer Science at Lebanese University</p>
+      <p>🌍 Based in Lebanon</p>
+      <p>🧠 Learning Full-Stack Web Development</p>
+     <p>🖥️ Portfolio: <a href="https://github.com/Rim-Tfayli">MyPortfolio</a></p>
+     <p>✉️ Contact: <a href="mailto:Rim.tf.2004@hotmail.com">Rim.tf.2004@hotmail.com</a></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/Rim-Tfayli/Rim-Tfayli/blob/main/cc.png" alt="Desk with Laptop & Coffee" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rim.tfayli.29?mibextid=LQQJ4d&rdid=iJYIX1pbJ3wyRvrN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1agv1mNWTT%2F%3Fmibextid%3DLQQJ4d#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rim_tfayli_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rim-tfayli-649a30308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
@@ -31,4 +25,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rim-Tfayli&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-Tfayli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github.com/Rim-Tfayli/Rim-Tfayli/blob/main/cc.png" alt="Desk with Laptop & Coffee" width="100%"/>
