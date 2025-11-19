@@ -1,7 +1,6 @@
-<h3>Hi 👋🏻 It's Rim</h3><table width="1000">
+<h3>Software Engineer in the making 👀💫</h3><table width="1000">
   <tr>
     <td valign="top" >
-      <p><b>Software Engineer in the making 👀💫</b></p>
       <p>✨Powered by Coffee & Code☕ + 💻 </p>
       <p>👩🏻‍🎓 Studied Computer Science at Lebanese University</p>
       <p>🌍 Based in Lebanon</p>
