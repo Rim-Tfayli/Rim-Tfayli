@@ -1,12 +1,11 @@
 <h3>Software Engineer in the making 👀💫</h3><table width="1000">
   <tr>
     <td valign="top" >
+      <p></p>
       <p>👩🏻‍🎓 Studied Computer Science at Lebanese University</p>
       <p>🌍 Based in Lebanon</p>
       <p>🧠 Learning Full-Stack Web Development</p>
       <p>✨Powered by Coffee & Code ☕ + 💻 </p>
-      <p>🖥️ Portfolio: <a href="https://github.com/Rim-Tfayli">MyPortfolio</a></p>
-     <p>✉️ Contact: <a href="mailto:Rim.tf.2004@hotmail.com">Rim.tf.2004@hotmail.com</a></p>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/Rim-Tfayli/Rim-Tfayli/blob/main/cc.png" alt="Desk with Laptop & Coffee" width="100%"/>
